@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 
 @interface Diamond : NSObject{
-int r;
+int k;
 }
 -(void)display : (int) r;
 @end
