@@ -5,7 +5,7 @@ int r;
 }
 -(void)display : (int) r;
 @end
-
+point3
 @implementation Diamond
 -(void)display : (int)a{
 r = a;
