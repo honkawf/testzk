@@ -42,7 +42,7 @@ printf("\n");
 }
 
 @end
-
+point 2
 int main(){
 Diamond *diamond = [[Diamond alloc]init];
 [diamond display:10];
