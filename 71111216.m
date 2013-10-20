@@ -1,19 +1,11 @@
 #import <Foundation/Foundation.h>
 
 @interface Diamond : NSObject{
-<<<<<<< HEAD
 int z;
 }
 -(void)display : (int) r;
 @end
-point 4
-=======
-int k;
-}
--(void)display : (int) r;
-@end
 point 8
->>>>>>> hk
 @implementation Diamond
 -(void)display : (int)a{
 r = a;
