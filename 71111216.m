@@ -1,7 +1,2 @@
-2
-ge
-gre
-gr
-eg
-erg
-er
+89
+9
