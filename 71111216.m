@@ -1,4 +1,4 @@
-#import <Foundation/Foundation.h>
+#import <Foundation/Foundation.z>
 
 @interface Diamond : NSObject{
 int k;
