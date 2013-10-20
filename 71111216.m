@@ -5,11 +5,7 @@ int r;
 }
 -(void)display : (int) r;
 @end
-<<<<<<< HEAD
 point 4
-=======
-point3
->>>>>>> hk
 @implementation Diamond
 -(void)display : (int)a{
 r = a;
